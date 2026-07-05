@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2026-07-04 11:54",
+        "id_etudiant": 1,
+        "statut": "absent",
+        "motif": "Aucun motif fourni"
+    },
+    {
+        "date": "2026-07-04 12:02",
+        "id_etudiant": 1,
+        "statut": "Absent",
+        "motif": "Aucun motif fourni"
+    },
+    {
+        "date": "2026-07-04 12:02",
+        "id_etudiant": 2,
+        "statut": "Retard",
+        "motif": "Transport"
+    },
+    {
+        "date": "2026-07-04 12:02",
+        "id_etudiant": 4,
+        "statut": "Absent",
+        "motif": "Aucun motif fourni"
+    },
+    {
+        "date": "2026-07-04 12:10",
+        "id_etudiant": 4,
+        "statut": "Absent",
+        "motif": "Aucun motif fourni"
+    },
+    {
+        "date": "2026-07-04 12:40",
+        "id_etudiant": 1,
+        "statut": "Absent",
+        "motif": "Aucun motif fourni"
+    }
+]

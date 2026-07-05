@@ -1,0 +1,2 @@
+prof_chef|admin123|M. Kanoun
+enseignant1|ensaf2026|Mme. Alaoui

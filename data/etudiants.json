@@ -1,0 +1,7 @@
+[
+    {"id": "1", "nom": "Kanoun", "prenom": "Omar", "classe": "Génie Info"},
+    {"id": "2", "nom": "Benani", "prenom": "Sami", "classe": "Génie Info"},
+    {"id": "3", "nom": "Alami", "prenom": "Yasmine", "classe": "Génie Info"},
+    {"id": "4", "nom": "Karimi", "prenom": "Amine", "classe": "Génie Management"},
+     {"id": "5", "nom": "Rahimi", "prenom": "Ahmed", "classe": "Génie Management"}
+]
